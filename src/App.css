@@ -1,3 +1,8 @@
+.message-area{
+  min-height: 30rem;
+}
+
+
 .App {
   text-align: center;
 }
